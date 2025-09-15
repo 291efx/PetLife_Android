@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391953909810",
+    "project_id": "petlife-8af9a",
+    "storage_bucket": "petlife-8af9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391953909810:android:1cccdda1dbaa366f56d42b",
+        "android_client_info": {
+          "package_name": "com.erick.petlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUd0prD9aXwjjcQlKR91UxwxyOZoMn9u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
