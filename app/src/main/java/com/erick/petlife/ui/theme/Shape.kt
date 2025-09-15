@@ -1,4 +1,5 @@
 package com.erick.petlife.ui.theme
 
-class Shape {
-}
+import androidx.compose.material3.Shapes
+
+val Shapes = Shapes()

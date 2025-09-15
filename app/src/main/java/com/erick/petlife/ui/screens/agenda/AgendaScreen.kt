@@ -1,4 +1,4 @@
-package com.erick.petlife.ui.screens.pets
+package com.erick.petlife.ui.screens.agenda
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.padding
@@ -7,6 +7,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 @Composable
-fun PetsScreen(padding: PaddingValues) {
-    Text("Mascotas (placeholder)", modifier = Modifier.padding(padding))
+fun AgendaScreen(padding: PaddingValues) {
+    Text("Agenda (placeholder)", modifier = Modifier.padding(padding))
 }

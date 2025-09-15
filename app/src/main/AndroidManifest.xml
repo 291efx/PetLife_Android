@@ -4,14 +4,15 @@
     <application
         android:name=".PetLifeApp"
         android:allowBackup="true"
-        android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:icon="@mipmap/ic_petlife_logo"
+        android:roundIcon="@mipmap/ic_petlife_logo"
         android:label="PetLife"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Material3.DayNight.NoActionBar">
+        android:theme="@style/Theme_PetLife">
 
+        <!-- Actividad principal -->
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -22,4 +23,5 @@
         </activity>
 
     </application>
+
 </manifest>
